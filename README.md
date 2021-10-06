@@ -1,4 +1,5 @@
 # This is a sample Flask server for NSG @
+
 1) Clone this repo and install relevant dependencies needed.
 2) Start this flask server by running "python app.py"
 3) Upload the json file and render the graph
