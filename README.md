@@ -1,4 +1,4 @@
-# This is a sample Flask server for NSG @
+# This is a sample Flask server for NSG @ http://karaik.me/NSG-Demo/
 
 1) Clone this repo and install relevant dependencies needed.
 2) Start this flask server by running "python app.py"
